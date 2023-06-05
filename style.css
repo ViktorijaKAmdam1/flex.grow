@@ -12,6 +12,6 @@ main {
 section {
     width: 100%;
 }
-div {
-    
+div { background-color: red;
+
 }
